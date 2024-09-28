@@ -36,9 +36,12 @@ Website yang saya buat ini merupakan sebuah Pencatatan Data Murid yang memiliki 
 
 ### ERD
 
+![Cuplikan layar 2024-09-28 160205](https://github.com/user-attachments/assets/52e71723-7463-46e7-941c-d16622327d8a)
 
 
 ## UML
+![Cuplikan layar 2024-09-28 155841](https://github.com/user-attachments/assets/c6fe367d-3fec-471b-987b-726df011b29b)
+
 
 
 ## Teknologi Yang Digunakan
